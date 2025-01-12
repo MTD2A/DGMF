@@ -1,0 +1,33 @@
+
+  digitalWrite(53) <-> DigitalRead(2)
+  digitalWrite(45) <-> DigitalRead(3)
+  digitalWrite(44) <-> DigitalRead(4)
+  digitalWrite(43) <-> DigitalRead(5)
+  digitalWrite(21) <-> DigitalRead(6)
+  digitalWrite(20) <-> DigitalRead(7)
+
+  digitalWrite(19) <-> DigitalRead(8)
+  digitalWrite(18) <-> DigitalRead(9)
+  digitalWrite(17) <-> DigitalRead(10)
+  digitalWrite(16) <-> DigitalRead(11)
+  digitalWrite(15) <-> DigitalRead(12)
+  digitalWrite(14) <-> DigitalRead(13)
+
+  digitalWrite(29) <-> DigitalRead(22)
+  digitalWrite(30) <-> DigitalRead(23)
+  digitalWrite(31) <-> DigitalRead(24)
+  digitalWrite(32) <-> DigitalRead(25)
+  digitalWrite(33) <-> DigitalRead(26)
+  digitalWrite(34) <-> DigitalRead(27)
+  digitalWrite(35) <-> DigitalRead(28)
+
+  digitalWrite(36) <-> DigitalRead(46)
+  digitalWrite(37) <-> DigitalRead(47)
+  digitalWrite(38) <-> DigitalRead(48)
+  digitalWrite(39) <-> DigitalRead(49)
+  digitalWrite(40) <-> DigitalRead(50)
+  digitalWrite(41) <-> DigitalRead(51)
+  digitalWrite(42) <-> DigitalRead(52)
+
+  Write Port 53 mangler!
+  Read  port 43, 44 og 55 mangler!
