@@ -9,3 +9,18 @@ Skriv på dansk eller engelsk alt efter hvad der nu passer dig bedst.
 
 https://danskgmodelforening.dk/
 
+
+### Bobbi Marker
+
+`Bobbi-TunnelSporPassThrough.ino`
+
+Monitorering af parkerede vogne og lokomotiverover for "Rundforbi" og visning med tofarvede lysdioder på styrepult ved "Ølbylyng".
+
+`Bobby-UR.ino`
+
+UR styring
+
+### Ulf Høj
+
+`X`
+
