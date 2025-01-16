@@ -13,7 +13,7 @@ https://danskgmodelforening.dk/
 
 ### Bobbi Marker
 
-`Bobbi-TunnelSporPassThrough.ino`
+[Bobbi-TunnelSporPassThrough.ino](https://github.com/MTD2A/DGMF/blob/main/kildetekst/Bobbi-TunnelSporPassThrough.ino)
 
 Monitorering af parkerede vogne og lokomotiverover for "Rundforbi" og visning med tofarvede lysdioder på styrepult ved "Ølbylyng".
 
