@@ -5,7 +5,7 @@ Skriv på dansk eller engelsk alt efter hvad der nu passer dig bedst.
 
 <br/>
 
-<img src="https://github.com/MTD2A/DGMF/blob/main/billeder/DGMF-logo.jpg" height="200">
+<img src="https://github.com/MTD2A/DGMF/blob/main/billeder/DGMF-logo.jpg" height="200" width="274">
 
 https://danskgmodelforening.dk/
 
@@ -13,13 +13,14 @@ https://danskgmodelforening.dk/
 
 ### Bobbi Marker
 
+Monitorering af parkerede vogne og lokomotiverover over for "Rundforbi", og visning med tofarvede lysdioder på styrepult ved "Ølbylyng".
+
 [Bobbi-TunnelSporPassThrough.ino](https://github.com/MTD2A/DGMF/blob/main/kildetekst/Bobbi-TunnelSporPassThrough.ino)
 
-Monitorering af parkerede vogne og lokomotiverover for "Rundforbi" og visning med tofarvede lysdioder på styrepult ved "Ølbylyng".
-
-`Bobby-UR.ino`
-
 UR styring
+
+[Bobby-UR.ino](https://github.com/MTD2A/DGMF/blob/main/kildetekst/Bobby-UR.ino)
+
 
 ### Ulf Høj
 
