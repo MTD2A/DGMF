@@ -24,4 +24,4 @@ UR styring
 
 `X`
 
-https://usuaris.tinet.cat/fmco/home_sp.htm
+
