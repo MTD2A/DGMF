@@ -11,7 +11,7 @@ Skriv på dansk eller engelsk alt efter hvad der nu passer dig bedst.
 
 ### Bobbi Marker
 
-Monitorering af parkerede vogne og lokomotiverover over for "Rundforbi", og visning med tofarvede lysdioder på styrepult ved "Ølbylyng".
+Monitorering af parkerede vogne og lokomotiverover på rangerterrænet over for "Rundforbi", og visning med tofarvede lysdioder på styrepult ved "Ølbylyng".
 
 [Bobbi-TunnelSporPassThrough.ino](https://github.com/MTD2A/DGMF/blob/main/kildetekst/Bobbi-TunnelSporPassThrough.ino)
 
