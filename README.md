@@ -22,8 +22,5 @@ UR styring
 
 ### Ulf Høj
 
-`X`
+[Overskaering_3.ino](https://github.com/MTD2A/DGMF/blob/main/kildetekst/Overskaering_3.ino)
 
-### Christian Baumgarten 
-
-DCC dekoder til Arduino med mere
