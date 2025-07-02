@@ -9,7 +9,7 @@ Skriv på dansk eller engelsk alt efter hvad der nu passer dig bedst.
 
 <br/>
 
-### Bobbi Marker
+### Bobbi Marker (LuskeFuske)
 
 Monitorering af parkerede vogne og lokomotiverover på rangerterrænet over for "Rundforbi", og visning med tofarvede lysdioder på styrepult ved "Ølbylyng".
 
@@ -20,7 +20,14 @@ UR styring
 [Bobby-UR.ino](https://github.com/MTD2A/DGMF/blob/main/kildetekst/Bobby-UR.ino)
 
 
-### Ulf Høj
+### Ulf Høj (FutLGB)
 
 [Overskaering_3.ino](https://github.com/MTD2A/DGMF/blob/main/kildetekst/Overskaering_3.ino)
 
+
+### Steen Rudberg (5p0o)
+
+
+### Frank Simonsen (Frottosi)
+
+Bjergbanen
