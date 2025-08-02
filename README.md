@@ -25,6 +25,10 @@ UR styring
 [Overskaering_3.ino](https://github.com/MTD2A/DGMF/blob/main/kildetekst/Overskaering_3.ino)
 
 
+### Jørgen Madsen (jebmdk)
+
+Billedefiler til SD-kort: DGMF_Display_240_x_320
+
 ### Steen Rudberg (5p0o)
 
 
