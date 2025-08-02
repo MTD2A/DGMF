@@ -26,8 +26,8 @@ UR styring
 
 
 ### Jørgen Madsen (jebmdk)
-
-Billedefiler til SD-kort: DGMF_Display_240_x_320
+[/DGMF_Display_240_x_320.ino](https://github.com/MTD2A/DGMF/blob/main/kildetekst/DGMF_Display_240_x_320.ino)
+Billedefiler til SD-kort: [DGMF_Display_240_x_320](https://github.com/MTD2A/DGMF/tree/main/billeder/DGMF_Display_240_x_320)
 
 ### Steen Rudberg (5p0o)
 
