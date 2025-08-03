@@ -27,7 +27,7 @@ UR styring
 
 ### Jørgen Madsen (jebmdk)
 [DGMF_Display_240_x_320.ino](/kildetekst/DGMF_Display_240_x_320.ino)   Billedfiler til SD-kort: [billeder/DGMF_Display_240_x_320](/billeder/DGMF_Display_240_x_320)
-<br/> Parameter konfiguration af [Digole billede konvertering](/billeder/Digole_picture_converter.png) Hjemmesiden: http://www.digole.com/tools/PicturetoC_Hex_converter.php
+<br/> Parameter konfiguration af [Digole billede konvertering](/billeder/Digole_picture_converter.png)   Hjemmesiden: http://www.digole.com/tools/PicturetoC_Hex_converter.php
 
 
 ### Steen Rudberg (5p0o)
